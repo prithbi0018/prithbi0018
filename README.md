@@ -9,7 +9,7 @@
 
 - 📫 reach me **prithbirajpanda@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/1y6Nzk)
+- 📄 Know about my experiences [https://pdflink.to/resumeprithbi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
