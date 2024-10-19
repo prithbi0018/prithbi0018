@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prithbiraj Panda</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 
-- 🔭 I’m currently working on **space invaders**
+- 🔭 I’m currently working on **Flap-To-survive**
 
-- 🌱 I’m currently learning **SFML , C++**
+- 🌱 I’m currently learning ** UNITY , C# **
 
 - 👨‍💻 All of my projects are available at [https://prithbi18.myportfolio.com/work](https://prithbi18.myportfolio.com/work)
 
