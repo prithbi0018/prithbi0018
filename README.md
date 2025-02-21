@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prithbi18.myportfolio.com/work](https://prithbi18.myportfolio.com/work)
 
-- 📫 reach me **prithbirajpanda@gmail.com**
+- 📫 reach me **pandaprithbiraj81v@gmail.com**
 
 - 📄 Know about my experiences [https://pdflink.to/resumeprithbi/)
 
